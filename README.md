@@ -8,7 +8,6 @@ This project is an AI-driven SMS spam classifier that detects spam messages with
 - **NLTK** (Natural Language Toolkit) for text preprocessing
 - **Scikit-learn** for model training and evaluation
 - **Seaborn & Matplotlib** for data visualization
-- **Flask** for website deployment
 - **PyCharm** for development & deployment
 
 ## 🔍 Features
