@@ -26,7 +26,7 @@ This project is an AI-driven SMS spam classifier that detects spam messages with
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Flask app:
+3. Run the app on PyCharm:
    ```bash
    python app.py
    ```
